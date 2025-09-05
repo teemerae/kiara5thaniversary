@@ -69,4 +69,18 @@ small {
   font-family: "Prompt", sans-serif;
   font-weight: 500;
   font-style: normal;
+
 }
+
+  @media (width >= 64rem) { 
+    #screeninfo{
+
+    margin-left: 2%; 
+  text-align: left;
+}
+}
+  @media (width < 64rem) { 
+    #screeninfo{
+  text-align: center;
+
+}}

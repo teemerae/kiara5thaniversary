@@ -13,7 +13,7 @@
             <h1 style="color: black;">ยินดีครบรอบ 5 ปี Takanashi Kiara</h1>
             <h2 style="color: black;">Happy 5th Anniversary Takanashi Kiara</h2>
           </div>
-          <div style="margin-left: 5%;">
+          <div id="screeninfo">
             <br/>
             <p>
               โปรเจคป้ายโฆษณา<br/>

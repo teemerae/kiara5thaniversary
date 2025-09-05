@@ -3,6 +3,7 @@
   margin-left: 2%;
   margin-right: 2%;
   margin-bottom: 2%;
+  border-radius: 1.5rem;
   background: #FF501C;
   background: linear-gradient(90deg, rgba(255, 128, 89, 0.8) 28%, rgba(134, 236, 219, 0.8) 77%);
 }
@@ -11,6 +12,8 @@ body {
   /* background: #FF501C;
   background: linear-gradient(90deg, rgba(255, 80, 28, 1) 28%, rgba(134, 236, 219, 1) 77%); */
   background-image: url('./kiara5thbg.avif');
+    background-size: 100% 100%;
+
 }
 
 .column_wrapper {

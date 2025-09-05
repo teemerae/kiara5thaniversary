@@ -27,7 +27,7 @@
       <div class="row text-center">
         <h1 style="color: black;">Takanashi Kiara 5th Anniversary Thai Billboard Ad</h1>
         <div class="video-container">
-          <iframe width="1333" height="750" src="https://www.youtube.com/embed/g5k5yScMWDc" title="TASTY - Takanashi Kiara (Official Music Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+          <iframe width="1333" height="750" style="  border-radius: 1.5rem;box-shadow: 0 20px 25px -5px rgb(0 0 0 / 0.1), 0 8px 10px -6px rgb(0 0 0 / 0.1)" src="https://www.youtube.com/embed/g5k5yScMWDc" title="TASTY - Takanashi Kiara (Official Music Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
         </div>
       </div>
       <hr/>

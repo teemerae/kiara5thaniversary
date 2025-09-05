@@ -50,7 +50,7 @@
           Pudding<br/>
         </p>
         <br/>
-        <div class="row" id="creditbox">
+        <div class="row" id="creditbox" data-aos="zoom-in">
           <h2>Contributors</h2>
           <small>*Listed in alphabetical order / เรียงตามลำดับตัวอักษร</small>
           <br/>
@@ -146,3 +146,8 @@ small {
     1px 1px 0 rgba(255,255,255, 0.5); */
 }
 </style>
+<script>
+import AOS from 'aos'
+    AOS.init({ once: true,})
+
+</script>

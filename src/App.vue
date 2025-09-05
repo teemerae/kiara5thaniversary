@@ -8,7 +8,7 @@
         <div class="col-lg">
           <div class="img-fluid logo"><img id="logo" src="./assets/thai-billboard-text-shadow.avif"/></div>
         </div>
-        <div class="col-lg text-left">
+        <div class="col-lg text-left"  data-aos="fade-up">
           <div class="text-center">
             <h1 style="color: black;">ยินดีครบรอบ 5 ปี Takanashi Kiara</h1>
             <h2 style="color: black;">Happy 5th Anniversary Takanashi Kiara</h2>
@@ -31,7 +31,7 @@
         </div>
       </div>
       <hr/>
-      <div class="row text-center">
+      <div class="row text-center" data-aos="fade-up">
         <h1>Credits</h1>
         <p>
           Project Managers: NiiNi Diesel<br/>
@@ -50,7 +50,7 @@
           Pudding<br/>
         </p>
         <br/>
-        <div class="row" id="creditbox" data-aos="zoom-in">
+        <div class="row" id="creditbox" data-aos="fade-up">
           <h2>Contributors</h2>
           <small>*Listed in alphabetical order / เรียงตามลำดับตัวอักษร</small>
           <br/>
@@ -148,6 +148,24 @@ small {
 </style>
 <script>
 import AOS from 'aos'
-    AOS.init({ once: true,})
+    AOS.init({  // Global settings:
+  disable: false, // accepts following values: 'phone', 'tablet', 'mobile', boolean, expression or function
+  startEvent: 'DOMContentLoaded', // name of the event dispatched on the document, that AOS should initialize on
+  // initClassName: 'aos-init', // class applied after initialization
+  // animatedClassName: 'aos-animate', // class applied on animation
+  // useClassNames: false, // if true, will add content of `data-aos` as classes on scroll
+  // disableMutationObserver: false, // disables automatic mutations' detections (advanced)
+  // debounceDelay: 50, // the delay on debounce used while resizing window (advanced)
+  // throttleDelay: 99, // the delay on throttle used while scrolling the page (advanced)
+  
+
+  // Settings that can be overridden on per-element basis, by `data-aos-*` attributes:
+  // offset: , // offset (in px) from the original trigger point
+  // delay: 150, // values from 0 to 3000, with step 50ms
+  duration: 400, // values from 0 to 3000, with step 50ms
+  easing: 'ease', // default easing for AOS animations
+  once: false, // whether animation should happen only once - while scrolling down
+  mirror: false, // whether elements should animate out while scrolling past them
+ })
 
 </script>

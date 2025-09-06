@@ -1,14 +1,14 @@
 <script setup></script>
 
 <template>
-  <BCard no-body>
+  <BCard no-body data-aos="fade-up">
     <div class="container text-light">
       <p> <br/></p>
       <div class="row">
         <div class="col-lg">
-          <div class="img-fluid logo"><img id="logo" src="./assets/thai-billboard-text-shadow.avif"/></div>
+          <div class="img-fluid logo" ><img id="logo" src="./assets/thai-billboard-text-shadow.avif"/></div>
         </div>
-        <div class="col-lg text-left"  data-aos="fade-up">
+        <div class="col-lg text-left" >
           <div class="text-center">
             <h1 style="color: black;">ยินดีครบรอบ 5 ปี Takanashi Kiara</h1>
             <h2 style="color: black;">Happy 5th Anniversary Takanashi Kiara</h2>
@@ -24,8 +24,8 @@
         </div>
       </div>
       <hr/>
-      <div class="row text-center">
-        <h1 style="color: black;">Takanashi Kiara 5th Anniversary Thai Billboard Ad</h1>
+      <div class="row text-center" data-aos="fade-up">
+        <h1 style="color: black;" >Takanashi Kiara 5th Anniversary Thai Billboard Ad</h1>
         <div class="video-container">
           <iframe width="1333" height="750" style="  border-radius: 1.5rem;box-shadow: 0 20px 25px -5px rgb(0 0 0 / 0.1), 0 8px 10px -6px rgb(0 0 0 / 0.1)" src="https://www.youtube.com/embed/g5k5yScMWDc" title="TASTY - Takanashi Kiara (Official Music Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
         </div>

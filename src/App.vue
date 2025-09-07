@@ -1,19 +1,19 @@
 <script setup></script>
 
 <template>
-  <BCard no-body>
+  <BCard no-body data-aos="fade-up">
     <div class="container text-light">
       <p> <br/></p>
       <div class="row">
         <div class="col-lg">
-          <div class="img-fluid logo"><img id="logo" src="./assets/thai-billboard-text-shadow.avif"/></div>
+          <div class="img-fluid logo" ><img id="logo" src="./assets/thai-billboard-text-shadow.avif"/></div>
         </div>
-        <div class="col-lg text-left">
+        <div class="col-lg text-left" >
           <div class="text-center">
             <h1 style="color: black;">ยินดีครบรอบ 5 ปี Takanashi Kiara</h1>
             <h2 style="color: black;">Happy 5th Anniversary Takanashi Kiara</h2>
           </div>
-          <div style="margin-left: 5%;">
+          <div id="screeninfo">
             <br/>
             <p>
               โปรเจคป้ายโฆษณา<br/>
@@ -24,14 +24,14 @@
         </div>
       </div>
       <hr/>
-      <div class="row text-center">
-        <h1 style="color: black;">Takanashi Kiara 5th Anniversary Thai Billboard Ad</h1>
+      <div class="row text-center" data-aos="fade-up">
+        <h1 style="color: black;" >Takanashi Kiara 5th Anniversary Thai Billboard Ad</h1>
         <div class="video-container">
-          <iframe width="1333" height="750" src="https://www.youtube.com/embed/g5k5yScMWDc" title="TASTY - Takanashi Kiara (Official Music Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+          <iframe width="1333" height="750" style="  border-radius: 1.5rem;box-shadow: 0 20px 25px -5px rgb(0 0 0 / 0.1), 0 8px 10px -6px rgb(0 0 0 / 0.1)" src="https://www.youtube.com/embed/g5k5yScMWDc" title="TASTY - Takanashi Kiara (Official Music Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
         </div>
       </div>
       <hr/>
-      <div class="row text-center">
+      <div class="row text-center" data-aos="fade-up">
         <h1>Credits</h1>
         <p>
           Project Managers: NiiNi Diesel<br/>
@@ -50,7 +50,7 @@
           Pudding<br/>
         </p>
         <br/>
-        <div class="row" id="creditbox" data-aos="zoom-in">
+        <div class="row" id="creditbox" data-aos="fade-up">
           <h2>Contributors</h2>
           <small>*Listed in alphabetical order / เรียงตามลำดับตัวอักษร</small>
           <br/>
@@ -148,6 +148,30 @@ small {
 </style>
 <script>
 import AOS from 'aos'
-    AOS.init({ once: true,})
+
+// Initialize AOS only after the page has fully loaded
+window.addEventListener('load', () => {
+  AOS.init({
+    // Global settings:
+    disable: false, // accepts following values: 'phone', 'tablet', 'mobile', boolean, expression or function
+    // startEvent: 'DOMContentLoaded', // name of the event dispatched on the document, that AOS should initialize on
+    // initClassName: 'aos-init', // class applied after initialization
+    // animatedClassName: 'aos-animate', // class applied on animation
+    useClassNames: false, // if true, will add content of `data-aos` as classes on scroll
+    disableMutationObserver: false, // disables automatic mutations' detections (advanced)
+    debounceDelay: 50, // the delay on debounce used while resizing window (advanced)
+    throttleDelay: 99, // the delay on throttle used while scrolling the page (advanced)
+    
+    // Settings that can be overridden on per-element basis, by `data-aos-*` attributes:
+    // offset: , // offset (in px) from the original trigger point
+    delay: 100, // values from 0 to 3000, with step 50ms
+    duration: 400, // values from 0 to 3000, with step 50ms
+    easing: 'fade-up', // default easing for AOS animations
+    once: false, // whether animation should happen only once - while scrolling down
+    mirror: false, // whether elements should animate out while scrolling past them
+  });
+
+  AOS.refreshHard();
+});
 
 </script>

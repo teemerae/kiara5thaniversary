@@ -38,7 +38,7 @@
           Artist: Yakimi27<br/>
           Motion graphics, Video Editing, Rigging: acdi33, AnAnomalousWriter and Vini Konbini<br/>
           Logo Designer: Spiritsnare<br/>
-          Site Engineer: Tee ธี
+          Site Engineer: Tee ธี and siravijbb
         </p>
         <h1>Special Thanks</h1>
         <p>

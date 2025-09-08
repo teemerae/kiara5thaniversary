@@ -12,8 +12,7 @@ body {
   /* background: #FF501C;
   background: linear-gradient(90deg, rgba(255, 80, 28, 1) 28%, rgba(134, 236, 219, 1) 77%); */
   background-image: url('./kiara5thbg.avif');
-    background-size: 100% 100%;
-
+  background-size: auto 100%;
 }
 
 .column_wrapper {
@@ -72,15 +71,17 @@ small {
 
 }
 
-  @media (width >= 64rem) { 
-    #screeninfo{
+@media (width >=64rem) {
+  #screeninfo {
 
-    margin-left: 2%; 
-  text-align: left;
+    margin-left: 2%;
+    text-align: left;
+  }
 }
-}
-  @media (width < 64rem) { 
-    #screeninfo{
-  text-align: center;
 
-}}
+@media (width < 64rem) {
+  #screeninfo {
+    text-align: center;
+
+  }
+}

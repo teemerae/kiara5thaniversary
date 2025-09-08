@@ -78,9 +78,12 @@
             Project Managers: NiiNi Diesel <a href="https://x.com/diesel_02">@diesel_02</a><br/>
             Artist: Yakimi27 TBA<br/>
             Motion graphics, Video Editing, Rigging:<br/>
-            acdi33 <a href="https://x.com/acdi33">@acdi33</a>, AnAnomalousWriter <a href="https://x.com/AnomalousWriter">@AnomalousWriter</a> and Vini Konbini <a href="https://x.com/vinikonbini">@vinikonbini</a><br/>
+            acdi33 <a href="https://x.com/acdi33">@acdi33</a>,<br/>
+            AnAnomalousWriter <a href="https://x.com/AnomalousWriter">@AnomalousWriter</a><br/>
+            and Vini Konbini <a href="https://x.com/vinikonbini">@vinikonbini</a><br/>
             Logo Designer: Spiritsnare <a href="https://x.com/Spiritsnare">@Spiritsnare</a><br/>
-            Site Engineer: Tee ธี <a href="https://x.com/teemerae">@teemerae</a> and Siravij | B <a href="https://x.com/SierraB_Siravij">@SierraB_Siravij</a>
+            Site Engineer: Tee ธี <a href="https://x.com/teemerae">@teemerae</a><br/>
+            and Siravij | B <a href="https://x.com/SierraB_Siravij">@SierraB_Siravij</a>
           </p>
           <p><br/></p>
           <h1>Special Thanks</h1>

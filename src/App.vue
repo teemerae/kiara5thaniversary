@@ -13,6 +13,7 @@
             <br/>
             <h2 style="color: black;">ยินดีครบรอบ 5 ปี Takanashi Kiara!!!</h2>
             <h2 style="color: black;">Happy 5th Anniversary, Takanashi Kiara!!!</h2>
+            <p><i class="fa-brands fa-youtube"></i> Takanashi Kiara Channel: <a href="https://www.youtube.com/@TakanashiKiara">https://www.youtube.com/@TakanashiKiara</a></p>
           </div>
         </div>
       <div class="row">
@@ -68,28 +69,33 @@
       </div>
       <hr/>
       <div class="row text-center" data-aos="fade-up">
-        <h1>Credits</h1>
-        <p>
-          Project Managers: NiiNi Diesel<br/>
-          Artist: Yakimi27<br/>
-          Motion graphics, Video Editing, Rigging: acdi33, AnAnomalousWriter and Vini Konbini<br/>
-          Logo Designer: Spiritsnare<br/>
-          Site Engineer: Tee ธี and siravijbb
-        </p>
-        <h1>Special Thanks</h1>
-        <p>
-          HoloFans TH<br/>
-          KFP Thailand Branch<br/>
-          KFP The Office<br/>
-          Kowkarot<br/>
-          PONG<br/>
-          Pudding<br/>
-        </p>
-        <br/>
+        <p><br/></p>
+        <div class="col-lg text-center">
+          <h1>Credits</h1>
+          <p>
+            Project Managers: NiiNi Diesel<br/>
+            Artist: Yakimi27<br/>
+            Motion graphics, Video Editing, Rigging: acdi33, AnAnomalousWriter and Vini Konbini<br/>
+            Logo Designer: Spiritsnare<br/>
+            Site Engineer: Tee ธี and siravijbb
+          </p>
+          <p><br/></p>
+          <h1>Special Thanks</h1>
+          <p>
+            HoloFans TH<br/>
+            KFP Thailand Branch<br/>
+            KFP The Office<br/>
+            Kowkarot<br/>
+            PONG<br/>
+            Pudding<br/>
+          </p>
+          <p><br/></p>
+        </div>
+      </div>
+      <div class="row text-center" data-aos="fade-up">
         <div class="row" id="creditbox" data-aos="fade-up">
           <h2>Contributors</h2>
           <small>*Listed in alphabetical order / เรียงตามลำดับตัวอักษร</small>
-          <br/>
           <div class="col-sm text-center">
             <span id="credittext">
               ApiVoynich<br/>
@@ -157,14 +163,21 @@
               นั้นแหละๆ<br/>
               </span>
             </div>
-          <p> <br/></p>
         </div>
+        <p><br/></p>
       </div>
     </div>
   </BCard>
 </template>
 
 <style scoped>
+a {
+  color: inherit;
+  /* blue colors for links too */
+  text-decoration: inherit;
+  /* no underline */
+}
+
 h1,
 h2,
 h3,

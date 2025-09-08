@@ -10,5 +10,4 @@ import AOS from 'aos'
 
 const app = createApp(App)
 app.use(createBootstrap()) // Important
-app.use(AOS)
 app.mount('#app')

@@ -74,26 +74,49 @@
         <p><br/></p>
         <div class="col-lg text-center">
           <h1>Credits</h1>
-          <p>
-            Project Managers: NiiNi Diesel <a href="https://x.com/diesel_02">@diesel_02</a><br/>
-            Artist: Yakimi27 TBA<br/>
-            Motion graphics, Video Editing, Rigging:<br/>
-            acdi33 <a href="https://x.com/acdi33">@acdi33</a>,<br/>
-            AnAnomalousWriter <a href="https://x.com/AnomalousWriter">@AnomalousWriter</a><br/>
-            and Vini Konbini <a href="https://x.com/vinikonbini">@vinikonbini</a><br/>
-            Logo Designer: Spiritsnare <a href="https://x.com/Spiritsnare">@Spiritsnare</a><br/>
-            Site Engineer: Tee ธี <a href="https://x.com/teemerae">@teemerae</a><br/>
-            and Siravij | B <a href="https://x.com/SierraB_Siravij">@SierraB_Siravij</a>
-          </p>
+          <table>
+            <tr>
+              <td id="creditleftcol">Project Managers</td>
+              <td id="creditrightcol"><a href="https://x.com/diesel_02">NiiNi Diesel</a></td>
+            </tr>
+            <tr>
+              <td id="creditleftcol">Artist</td>
+              <td id="creditrightcol">Yakimi27</td>
+            </tr>
+            <tr>
+              <td id="creditleftcol">Motion graphics, Video Editing, Rigging  </td>
+              <td id="creditrightcol"><a href="https://x.com/acdi33">acdi33</a></td>
+            </tr>
+            <tr>
+              <td id="creditleftcol"></td>
+              <td id="creditrightcol"><a href="https://x.com/AnomalousWriter">AnAnomalousWriter</a></td>
+            </tr>
+            <tr>
+              <td id="creditleftcol"></td>
+              <td id="creditrightcol"><a href="https://x.com/vinikonbini">Vini Konbini</a></td>
+            </tr>
+            <tr>
+              <td id="creditleftcol">Logo Designer</td>
+              <td id="creditrightcol"><a href="https://x.com/Spiritsnare">Spiritsnare</a></td>
+            </tr>
+            <tr>
+              <td id="creditleftcol">Site Engineer</td>
+              <td id="creditrightcol"><a href="https://x.com/teemerae">Tee ธี</a></td>
+            </tr>
+            <tr>
+              <td id="creditleftcol"></td>
+              <td id="creditrightcol"><a href="https://x.com/SierraB_Siravij">Siravij | B</a></td>
+            </tr>
+          </table>
           <p><br/></p>
           <h1>Special Thanks</h1>
           <p>
-            ร้าน KFP สาขาประเทศไทย <a href="https://x.com/KFPTHbranch">@KFPTHbranch</a><br/>
-            KFP | The Office <a href="https://x.com/KFP_TheOffice">@KFP_TheOffice</a><br/>
-            HoloFans TH <a href="https://x.com/HoloFansTh">@HoloFansTh</a><br/>
-            PONG <a href="https://x.com/PONG_KFP">@PONG_KFP</a><br/>
-            Kowkarot <a href="https://x.com/kowkarot5">@kowkarot5</a><br/>
-            Pudding <a href="https://x.com/von_pudding">@von_pudding</a><br/>
+            <a href="https://x.com/KFPTHbranch">ร้าน KFP สาขาประเทศไทย</a><br/>
+            <a href="https://x.com/KFP_TheOffice">KFP | The Office </a><br/>
+            <a href="https://x.com/HoloFansTh">HoloFans TH</a><br/>
+            <a href="https://x.com/PONG_KFP">PONG</a><br/>
+            <a href="https://x.com/kowkarot5">Kowkarot</a><br/>
+            <a href="https://x.com/von_pudding">Pudding</a><br/>
           </p>
           <p><br/></p>
         </div>
@@ -182,6 +205,32 @@ a {
   /* blue colors for links too */
   /* text-decoration: inherit; */
   /* no underline */
+}
+
+table {
+  width: 100%;
+}
+
+td {
+  width: 50%;
+}
+
+#creditleftcol {
+  text-align: right;
+  color: black;
+  font-family: "Prompt", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+  padding-right: 10px;
+}
+
+#creditrightcol {
+  text-align: left;
+  color: black;
+  font-family: "Prompt", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+  padding-left: 10px;
 }
 
 h1,

@@ -75,19 +75,19 @@
           <p>
             Project Managers: <a href="https://x.com/diesel_02">NiiNi Diesel</a><br/>
             Artist: Yakimi27<br/>
-            Motion graphics, Video Editing, Rigging: acdi33, AnAnomalousWriter and Vini Konbini<br/>
-            Logo Designer: Spiritsnare<br/>
+            Motion graphics, Video Editing, Rigging: <a href="https://x.com/acdi33">acdi33</a>, <a href="https://x.com/AnomalousWriter">AnAnomalousWriter</a> and <a href="https://x.com/vinikonbini">Vini Konbini</a><br/>
+            Logo Designer: <a href="https://x.com/Spiritsnare">Spiritsnare</a><br/>
             Site Engineer: <a href="https://x.com/teemerae">Tee ธี</a> and <a href="https://x.com/SierraB_Siravij">siravijbb</a>
           </p>
           <p><br/></p>
           <h1>Special Thanks</h1>
           <p>
-            HoloFans TH<br/>
-            KFP Thailand Branch<br/>
-            KFP The Office<br/>
-            Kowkarot<br/>
-            PONG<br/>
-            Pudding<br/>
+            <a href="https://x.com/HoloFansTh">HoloFans TH</a><br/>
+            <a href="https://x.com/KFPTHbranch">KFP Thailand Branch</a><br/>
+            <a href="https://x.com/KFP_TheOffice">KFP The Office</a><br/>
+            <a href="https://x.com/kowkarot5">Kowkarot</a><br/>
+            <a href="https://x.com/PONG_KFP">PONG</a><br/>
+            <a href="https://x.com/von_pudding">Pudding</a><br/>
           </p>
           <p><br/></p>
         </div>

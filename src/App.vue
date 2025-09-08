@@ -32,6 +32,7 @@
             โปรเจคป้ายโฆษณา Takanashi Kiara 5th Anniversary Thai Billboard<br/>
             📍สถานที่: MBK Center<br/>
             📅วันที่ 12-18 กันยายน 2025<br/>
+            #Kiara5thTHproject<br/>
             <br/>
             *สื่อนี้เป็นโปรเจคที่จัดทำโดยแฟนๆเท่านั้น ไม่มีส่วนเกี่ยวข้องกับ COVER Corp.<br/>
             <br/>
@@ -42,7 +43,7 @@
           <p>
             Thank you for the endless smiles, joy, and love you’ve shared with us KFP throughout these five wonderful years.<br/>
             We are so proud of you, and we love you dearly—for every step, every moment you’ve shined so brightly on this journey.<br/>
-            The name **Takanashi Kiara** will always be the No.1 idol in our hearts.<br/>
+            The name Takanashi Kiara will always be the No.1 idol in our hearts.<br/>
             And we’ll continue to support our beloved Boss forever.<br/>
             <br/>
             From Thai KFP, KFP all around the world, and hololive fans everywhere—<br/>
@@ -52,6 +53,7 @@
             Takanashi Kiara 5th Anniversary Thai Billboard Project<br/>
             📍 Location: MBK Center, Bangkok<br/>
             📅 On Air: September 12–18, 2025<br/>
+            #Kiara5thTHproject<br/>
             <br/>
             *This fan support advertisement is not affiliated with COVER Corp.<br/>
             <br/>
@@ -73,21 +75,22 @@
         <div class="col-lg text-center">
           <h1>Credits</h1>
           <p>
-            Project Managers: <a href="https://x.com/diesel_02">NiiNi Diesel</a><br/>
-            Artist: Yakimi27<br/>
-            Motion graphics, Video Editing, Rigging: <a href="https://x.com/acdi33">acdi33</a>, <a href="https://x.com/AnomalousWriter">AnAnomalousWriter</a> and <a href="https://x.com/vinikonbini">Vini Konbini</a><br/>
-            Logo Designer: <a href="https://x.com/Spiritsnare">Spiritsnare</a><br/>
-            Site Engineer: <a href="https://x.com/teemerae">Tee ธี</a> and <a href="https://x.com/SierraB_Siravij">siravijbb</a>
+            Project Managers: NiiNi Diesel <i class="fa-brands fa-x-twitter"></i><a href="https://x.com/diesel_02">@diesel_02</a><br/>
+            Artist: Yakimi27 <i class="fa-brands fa-x-twitter"></i>TBA<br/>
+            Motion graphics, Video Editing, Rigging:<br/>
+            acdi33 <i class="fa-brands fa-x-twitter"></i><a href="https://x.com/acdi33">@acdi33</a>, AnAnomalousWriter <i class="fa-brands fa-x-twitter"></i><a href="https://x.com/AnomalousWriter">@AnomalousWriter</a> and Vini Konbini <i class="fa-brands fa-x-twitter"></i><a href="https://x.com/vinikonbini">@vinikonbini</a><br/>
+            Logo Designer: Spiritsnare <i class="fa-brands fa-x-twitter"></i><a href="https://x.com/Spiritsnare">@Spiritsnare</a><br/>
+            Site Engineer: Tee ธี <i class="fa-brands fa-x-twitter"></i><a href="https://x.com/teemerae">@teemerae</a> and Siravij | B <i class="fa-brands fa-x-twitter"></i><a href="https://x.com/SierraB_Siravij">@SierraB_Siravij</a>
           </p>
           <p><br/></p>
           <h1>Special Thanks</h1>
           <p>
-            <a href="https://x.com/HoloFansTh">HoloFans TH</a><br/>
-            <a href="https://x.com/KFPTHbranch">KFP Thailand Branch</a><br/>
-            <a href="https://x.com/KFP_TheOffice">KFP The Office</a><br/>
-            <a href="https://x.com/kowkarot5">Kowkarot</a><br/>
-            <a href="https://x.com/PONG_KFP">PONG</a><br/>
-            <a href="https://x.com/von_pudding">Pudding</a><br/>
+            ร้าน KFP สาขาประเทศไทย <i class="fa-brands fa-x-twitter"></i><a href="https://x.com/KFPTHbranch">@KFPTHbranch</a><br/>
+            KFP | The Office <i class="fa-brands fa-x-twitter"></i><a href="https://x.com/KFP_TheOffice">@KFP_TheOffice</a><br/>
+            HoloFans TH <i class="fa-brands fa-x-twitter"></i><a href="https://x.com/HoloFansTh">@HoloFansTh</a><br/>            
+            PONG <i class="fa-brands fa-x-twitter"></i><a href="https://x.com/PONG_KFP">@PONG_KFP</a><br/>
+            Kowkarot <i class="fa-brands fa-x-twitter"></i><a href="https://x.com/kowkarot5">@kowkarot5</a><br/>            
+            Pudding<i class="fa-brands fa-x-twitter"></i><a href="https://x.com/von_pudding">@von_pudding</a><br/>
           </p>
           <p><br/></p>
         </div>

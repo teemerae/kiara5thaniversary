@@ -64,7 +64,7 @@ small {
 }
 
 #creditbox {
-  margin-left: 3px;
+  margin-left: 1px;
 }
 
 #credittext {
@@ -76,7 +76,7 @@ small {
 
 @media (width >=64rem) {
   #screeninfo {
-    margin-left: 2%;
+    /* margin-left: 2%; */
     text-align: left;
   }
 }

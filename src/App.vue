@@ -10,18 +10,54 @@
         </div>
         <div class="col-lg text-left" >
           <div class="text-center">
-            <h1 style="color: black;">ยินดีครบรอบ 5 ปี Takanashi Kiara</h1>
-            <h2 style="color: black;">Happy 5th Anniversary Takanashi Kiara</h2>
-          </div>
-          <div id="screeninfo">
             <br/>
-            <p>
-              โปรเจคป้ายโฆษณา<br/>
-              สถานที่: MBK Center<br/>
-              วันที่ 12-18 กันยายน 2025<br/>
-            </p>
+            <h2 style="color: black;">ยินดีครบรอบ 5 ปี Takanashi Kiara!!!</h2>
+            <h2 style="color: black;">Happy 5th Anniversary, Takanashi Kiara!!!</h2>
           </div>
         </div>
+      <div class="row">
+        <p><br/></p>
+        <div class="col-lg" >
+          <p>
+            ขอบคุณสำหรับรอยยิ้ม ความสนุกสนาน ความรักที่มอบให้พวกเรา KFP มาตลอด 5 ปี<br/>
+            พวกเรารักและภูมิใจในตัวเธอมากๆ กับทุกก้าวทุกจังหวะที่เธอได้เปล่งประกายบนเส้นทางนี้<br/>
+            Takanashi Kiara ชื่อนี้จะเป็นไอดอลอันดับ 1 ในดวงใจของพวกเราต่อไป<br/>
+            และพวกเราพร้อมที่จะสนับสนุนบอสที่น่ารักคนนี้ตลอดกาล<br/>
+            <br/>
+            KFP ไทย KFP จากทั่วโลก รวมทั้งแฟนคลับ hololive<br/>
+            ขอมอบโปรเจคป้ายโฆษณานี้ให้เป็นของขวัญ แสดงความยินดีกันครบรอบ 5 ปี!<br/>
+            🧡Viva La Kiara🧡<br/>
+            <br/>
+            โปรเจคป้ายโฆษณา Takanashi Kiara 5th Anniversary Thai Billboard<br/>
+            📍สถานที่: MBK Center<br/>
+            📅วันที่ 12-18 กันยายน 2025<br/>
+            <br/>
+            *สื่อนี้เป็นโปรเจคที่จัดทำโดยแฟนๆเท่านั้น ไม่มีส่วนเกี่ยวข้องกับ COVER Corp.<br/>
+            <br/>
+            ขอบคุณทุกคนในรายชื่อด้านล่างนี้ที่ทำให้โปรเจคนี้เป็นจริงได้
+          </p>
+        </div>
+        <div class="col-lg" >
+          <p>
+            Thank you for the endless smiles, joy, and love you’ve shared with us KFP throughout these five wonderful years.<br/>
+            We are so proud of you, and we love you dearly—for every step, every moment you’ve shined so brightly on this journey.<br/>
+            The name **Takanashi Kiara** will always be the No.1 idol in our hearts.<br/>
+            And we’ll continue to support our beloved Boss forever.<br/>
+            <br/>
+            From Thai KFP, KFP all around the world, and hololive fans everywhere—<br/>
+            we present this billboard project as a heartfelt gift to celebrate your 5th anniversary!<br/>
+            🧡Viva La Kiara🧡<br/>
+            <br/>
+            Takanashi Kiara 5th Anniversary Thai Billboard Project<br/>
+            📍 Location: MBK Center, Bangkok<br/>
+            📅 On Air: September 12–18, 2025<br/>
+            <br/>
+            *This fan support advertisement is not affiliated with COVER Corp.<br/>
+            <br/>
+            A huge thank you to everyone listed below who made this project possible.
+          </p>
+        </div>
+      </div>
       </div>
       <hr/>
       <div class="row text-center" data-aos="fade-up">

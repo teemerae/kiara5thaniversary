@@ -75,22 +75,22 @@
         <div class="col-lg text-center">
           <h1>Credits</h1>
           <p>
-            Project Managers: NiiNi Diesel <i class="fa-brands fa-x-twitter"></i><a href="https://x.com/diesel_02">@diesel_02</a><br/>
-            Artist: Yakimi27 <i class="fa-brands fa-x-twitter"></i>TBA<br/>
+            Project Managers: NiiNi Diesel <a href="https://x.com/diesel_02">@diesel_02</a><br/>
+            Artist: Yakimi27 TBA<br/>
             Motion graphics, Video Editing, Rigging:<br/>
-            acdi33 <i class="fa-brands fa-x-twitter"></i><a href="https://x.com/acdi33">@acdi33</a>, AnAnomalousWriter <i class="fa-brands fa-x-twitter"></i><a href="https://x.com/AnomalousWriter">@AnomalousWriter</a> and Vini Konbini <i class="fa-brands fa-x-twitter"></i><a href="https://x.com/vinikonbini">@vinikonbini</a><br/>
-            Logo Designer: Spiritsnare <i class="fa-brands fa-x-twitter"></i><a href="https://x.com/Spiritsnare">@Spiritsnare</a><br/>
-            Site Engineer: Tee ธี <i class="fa-brands fa-x-twitter"></i><a href="https://x.com/teemerae">@teemerae</a> and Siravij | B <i class="fa-brands fa-x-twitter"></i><a href="https://x.com/SierraB_Siravij">@SierraB_Siravij</a>
+            acdi33 <a href="https://x.com/acdi33">@acdi33</a>, AnAnomalousWriter <a href="https://x.com/AnomalousWriter">@AnomalousWriter</a> and Vini Konbini <a href="https://x.com/vinikonbini">@vinikonbini</a><br/>
+            Logo Designer: Spiritsnare <a href="https://x.com/Spiritsnare">@Spiritsnare</a><br/>
+            Site Engineer: Tee ธี <a href="https://x.com/teemerae">@teemerae</a> and Siravij | B <a href="https://x.com/SierraB_Siravij">@SierraB_Siravij</a>
           </p>
           <p><br/></p>
           <h1>Special Thanks</h1>
           <p>
-            ร้าน KFP สาขาประเทศไทย <i class="fa-brands fa-x-twitter"></i><a href="https://x.com/KFPTHbranch">@KFPTHbranch</a><br/>
-            KFP | The Office <i class="fa-brands fa-x-twitter"></i><a href="https://x.com/KFP_TheOffice">@KFP_TheOffice</a><br/>
-            HoloFans TH <i class="fa-brands fa-x-twitter"></i><a href="https://x.com/HoloFansTh">@HoloFansTh</a><br/>            
-            PONG <i class="fa-brands fa-x-twitter"></i><a href="https://x.com/PONG_KFP">@PONG_KFP</a><br/>
-            Kowkarot <i class="fa-brands fa-x-twitter"></i><a href="https://x.com/kowkarot5">@kowkarot5</a><br/>            
-            Pudding<i class="fa-brands fa-x-twitter"></i><a href="https://x.com/von_pudding">@von_pudding</a><br/>
+            ร้าน KFP สาขาประเทศไทย <a href="https://x.com/KFPTHbranch">@KFPTHbranch</a><br/>
+            KFP | The Office <a href="https://x.com/KFP_TheOffice">@KFP_TheOffice</a><br/>
+            HoloFans TH <a href="https://x.com/HoloFansTh">@HoloFansTh</a><br/>
+            PONG <a href="https://x.com/PONG_KFP">@PONG_KFP</a><br/>
+            Kowkarot <a href="https://x.com/kowkarot5">@kowkarot5</a><br/>
+            Pudding <a href="https://x.com/von_pudding">@von_pudding</a><br/>
           </p>
           <p><br/></p>
         </div>

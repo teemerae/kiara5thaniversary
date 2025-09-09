@@ -38,8 +38,11 @@
             <br/>
             ขอบคุณทุกคนในรายชื่อด้านล่างนี้ที่ทำให้โปรเจคนี้เป็นจริงได้
           </p>
+          <br class="mobile-break"/>
+          <hr class="mobile-break"/>
         </div>
         <div class="col-lg" >
+          <br class="mobile-break"/>
           <p>
             Thank you for the endless smiles, joy, and love you’ve shared with us KFP throughout these five wonderful years.<br/>
             We are so proud of you, and we love you dearly—for every step, every moment you’ve shined so brightly on this journey.<br/>
@@ -64,10 +67,13 @@
       </div>
       <hr/>
       <div class="row text-center" data-aos="fade-up">
+        <p><br/></p>
         <h1 style="color: black;" >Takanashi Kiara 5th Anniversary Thai Billboard Ad</h1>
+        <p><br/></p>
         <div class="video-container">
           <iframe width="1333" height="750" style="  border-radius: 1.5rem;box-shadow: 0 20px 25px -5px rgb(0 0 0 / 0.1), 0 8px 10px -6px rgb(0 0 0 / 0.1)" src="https://www.youtube.com/embed/pGPutam676Q" title="Happy 5th Anniversary Wawa!! 🎉🐔🧡 [Takanashi Kiara 5th Anniversary Thai Billboard]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
         </div>
+        <p><br/></p>
       </div>
       <hr/>
       <div class="row text-center" data-aos="fade-up">
@@ -249,6 +255,12 @@ small {
     -1px 1px 0 rgba(255,255,255, 0.5),
     1px 1px 0 rgba(255,255,255, 0.5); */
 }
+
+@media screen and (min-width: 992px)  {
+      .mobile-break { 
+        display: none;
+      }
+  }
 </style>
 <script>
 import AOS from 'aos'

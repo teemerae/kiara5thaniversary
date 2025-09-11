@@ -82,7 +82,7 @@
           <h1>Credits</h1>
           <table>
             <tr>
-              <td id="creditleftcol">Project Managers</td>
+              <td id="creditleftcol">Project Manager</td>
               <td id="creditrightcol"><a href="https://x.com/diesel_02">NiiNi Diesel</a></td>
             </tr>
             <tr>

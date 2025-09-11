@@ -113,6 +113,10 @@
               <td id="creditleftcol"></td>
               <td id="creditrightcol"><a href="https://x.com/SierraB_Siravij">Siravij | B</a></td>
             </tr>
+            <tr>
+              <td id="creditleftcol">Announcement Artwork</td>
+              <td id="creditrightcol"><a href="https://x.com/Hanaka_ratt">Hanaka 🎲👧🍌</a></td>
+            </tr>
           </table>
           <p><br/></p>
           <h1>Special Thanks</h1>

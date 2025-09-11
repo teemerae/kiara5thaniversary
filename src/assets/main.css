@@ -13,6 +13,7 @@ body {
   background: linear-gradient(90deg, rgba(255, 80, 28, 1) 28%, rgba(134, 236, 219, 1) 77%); */
   background-image: url('./kiara5thbg.avif');
   background-size: auto 100%;
+  background-position: center;
 }
 
 .column_wrapper {

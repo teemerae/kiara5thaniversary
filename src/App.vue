@@ -71,7 +71,7 @@
         <h1 style="color: black;" >Takanashi Kiara 5th Anniversary Thai Billboard Ad</h1>
         <p><br/></p>
         <div class="video-container">
-          <iframe width="1333" height="750" style="  border-radius: 1.5rem;box-shadow: 0 20px 25px -5px rgb(0 0 0 / 0.1), 0 8px 10px -6px rgb(0 0 0 / 0.1)" src="https://www.youtube.com/embed/pGPutam676Q" title="Happy 5th Anniversary Wawa!! 🎉🐔🧡 [Takanashi Kiara 5th Anniversary Thai Billboard]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+          <iframe width="560" height="315" style="border-radius: 1.5rem;box-shadow: 0 20px 25px -5px rgb(0 0 0 / 0.1), 0 8px 10px -6px rgb(0 0 0 / 0.1)" src="https://www.youtube.com/embed/pGPutam676Q?si=sS4yKz_fzCHz5OuE" title="Happy 5th Anniversary Wawa!! 🎉🐔🧡 [Takanashi Kiara 5th Anniversary Thai Billboard]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
         </div>
         <p><br/></p>
       </div>

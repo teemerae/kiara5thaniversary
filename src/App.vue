@@ -87,7 +87,7 @@
             </tr>
             <tr>
               <td id="creditleftcol">Artist</td>
-              <td id="creditrightcol">Yakimi27</td>
+              <td id="creditrightcol"><a href="https://x.com/yakimi27">Yakimi27</a></td>
             </tr>
             <tr>
               <td id="creditleftcol">Motion graphics, Video Editing, Rigging  </td>
